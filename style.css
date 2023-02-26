@@ -81,7 +81,7 @@ body{
   right: 22px;
   position:fixed;
 }
-#links>button{
+#links button{
   height: 50px;
   width: 50px;
   font-weight: 700;
